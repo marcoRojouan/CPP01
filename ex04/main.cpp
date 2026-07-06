@@ -6,13 +6,12 @@
 /*   By: mrojouan <mrojouan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/26 11:32:03 by mrojouan          #+#    #+#             */
-/*   Updated: 2026/06/26 14:53:40 by mrojouan         ###   ########.fr       */
+/*   Updated: 2026/06/29 15:19:00 by mrojouan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 #include <fstream>
-#include <string.h>
 
 void	fileContent_loop (std::ifstream& infile, std::string& fileContent)
 {
